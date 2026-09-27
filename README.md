@@ -1,5 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm [Nama Kamu]!
 
+### 🎮 Game Programmer
+
+I'm a game programmer focused on building gameplay systems and interactive experiences using Unity and C#.
+
+---
+
+## 🎮 Game Projects
+
+### 🍣 Food Runner
+> Endless runner game developed with Unity.
+
+**Role:** Game Programmer  
+**Engine:** Unity  
+**Language:** C#
+
+[🎮 Play Game](LINK_ITCH_IO) · [📂 Source Code](LINK_GITHUB)
+
+---
+
+### 🎮 [Game 2]
+> [Deskripsi singkat]
+
+**Role:** Game Programmer  
+**Engine:** Unity  
+**Language:** C#
+
+[🎮 Play Game](LINK_ITCH_IO) · [📂 Source Code](LINK_GITHUB)
+
+---
+
+## 🛠️ Tech Stack
+
+**Game Development**
+- Unity
+- C#
+- Gameplay Programming
+- UI Programming
+- Game Systems
+
+**Tools**
+- Git / GitHub
+- Blender
+- DaVinci Resolve
+
+---
+
+## 🔗 Portfolio
+
+🎮 **Itch.io:** [My Games](LINK)
+
+💻 **GitHub:** [My Projects](LINK)
 <!--
 **Chris73442/Chris73442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

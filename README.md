@@ -1,8 +1,8 @@
-# 👋 Hi, I'm [Nama Kamu]!
+# 👋 Hi, I'm Christopher Immanuel Sunjoto!
 
 ### 🎮 Game Programmer
 
-I'm a game programmer focused on building gameplay systems and interactive experiences using Unity and C#.
+I'm a junior game programmer focused on building gameplay systems and interactive experiences using Unity and C#.
 
 ---
 

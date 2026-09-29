@@ -1,6 +1,6 @@
 # 🎮 Game Programmer
 
-Hi! I'm a **Game Programmer** focused on developing games with **Unity and C#**.
+Hi! I'm a BINUS Undergraduate **Game Programmer** focused on developing games with **Unity and C#**.
 
 I enjoy building gameplay systems, player mechanics, UI systems, and interactive game experiences.
 
@@ -20,16 +20,13 @@ I enjoy building gameplay systems, player mechanics, UI systems, and interactive
 <p><b>Boardgame · Cozy · 2D</b></p>
 
 <p>
-A 2D local multiplayer boardgame that incorporates Japanese
-Hiragana as a movement system, requiring players to recognize
-and use Hiragana words to navigate the game board.
-</p>
+A 2D game simulator rpg where player should defeat the enemy using
+the role in the game. 
 
 <p><b>Unity · C#</b></p>
 
 <p>
 <b>Role:</b> Programmer, Designer<br>
-<b>Duration:</b> 20 Days
 </p>
 
 <p>
@@ -53,17 +50,14 @@ and use Hiragana words to navigate the game board.
 <p><b>Psychological Horror · Narrative · 2D</b></p>
 
 <p>
-A 2D narrative psychological horror game that explores the
-subconscious mind of a high school girl named Nara, whose
-soul has been shattered by social expectations and the fear
-of failure.
+A 2D narrative psychological horror game that you were
+in submarine and you should go to the coordinates showed in map
 </p>
 
 <p><b>Unity · C#</b></p>
 
 <p>
 <b>Role:</b> Programmer<br>
-<b>Duration:</b> 22 Days
 </p>
 
 <p>
@@ -123,8 +117,8 @@ their hunger.
 <p><b>3D · Game</b></p>
 
 <p>
-A Unity game project focused on gameplay programming and
-interactive game systems.
+A 2D game where you should enough collect coins to
+buy house.
 </p>
 
 <p><b>Unity · C#</b></p>
@@ -165,7 +159,7 @@ interactive game systems.
 - Git & GitHub
 - GitHub Desktop
 - Blender
-- DaVinci Resolve
+- DaVinci
 - Adobe Premiere Pro
 
 ---
@@ -176,6 +170,7 @@ interactive game systems.
 - Gameplay Programming
 - Game Architecture
 - 3D Programming
+- 2D Programming
 
 ---
 

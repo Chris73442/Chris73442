@@ -13,7 +13,7 @@ I enjoy building gameplay systems, player mechanics, UI systems, and interactive
 
 <td width="50%" valign="top">
 
-<h3>Tan-Go</h3>
+<h3>RPG Simulator</h3>
 
 <img src="YOUR_TANGO_SCREENSHOT_URL" width="100%">
 
@@ -46,7 +46,7 @@ and use Hiragana words to navigate the game board.
 
 <td width="50%" valign="top">
 
-<h3>Karoshi: The Perfect Shell</h3>
+<h3>Hollow Reach</h3>
 
 <img src="YOUR_KAROSHI_SCREENSHOT_URL" width="100%">
 

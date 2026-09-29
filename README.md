@@ -184,6 +184,8 @@ interactive game systems.
 - 📧 Email: [chris.sunjoto@gmail.com](mailto:chris.sunjoto@gmail.com)
 - 🎮 itch.io: [MainGame7749](https://maingame7749.itch.io/)
 
+---
+
 **Chris73442/Chris73442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -43,7 +43,7 @@ the role in the game.
 
 <td width="50%" valign="top">
 
-<h3>Hollow Reach</h3>
+<h3>Hollow Reach(WIP)</h3>
 
 <img src="YOUR_KAROSHI_SCREENSHOT_URL" width="100%">
 

@@ -15,7 +15,7 @@ I enjoy building gameplay systems, player mechanics, UI systems, and interactive
 
 <h3>RPG Simulator</h3>
 
-<img src="YOUR_TANGO_SCREENSHOT_URL" width="100%">
+<img src="./assets/rpg simulator.gif" width="100%">
 
 <p><b>Boardgame · Cozy · 2D</b></p>
 
@@ -112,7 +112,7 @@ their hunger.
 
 <h3>House Seeker</h3>
 
-<img src="YOUR_HOUSE_SEEKER_SCREENSHOT_URL" width="100%">
+<img src="./assets/house seeker.gif" width="100%">
 
 <p><b>3D · Game</b></p>
 

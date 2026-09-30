@@ -15,7 +15,7 @@ I enjoy building gameplay systems, player mechanics, UI systems, and interactive
 
 <h3>RPG Simulator</h3>
 
-<img src="./assets/rpg simulator.gif" width="100%">
+<img src="./assets/rpg-simulator.gif" width="100%">
 
 <p><b>Boardgame · Cozy · 2D</b></p>
 
@@ -30,11 +30,11 @@ the role in the game.
 </p>
 
 <p>
-<a href="YOUR_TANGO_DOCUMENTATION_LINK">
+<a href="https://github.com/Chris73442/RPG-Simulator-">
 <img src="https://img.shields.io/badge/📖%20DOCUMENTATION-555555?style=for-the-badge">
 </a>
 <br><br>
-<a href="YOUR_TANGO_ITCH_LINK">
+<a href="https://maingame7749.itch.io/rpg-simulator-project">
 <img src="https://img.shields.io/badge/🎮%20itch.io-FA2851?style=for-the-badge">
 </a>
 </p>
@@ -43,7 +43,7 @@ the role in the game.
 
 <td width="50%" valign="top">
 
-<h3>Hollow Reach</h3>
+<h3>Hollow Reach(WIP)</h3>
 
 <img src="YOUR_KAROSHI_SCREENSHOT_URL" width="100%">
 
@@ -80,7 +80,7 @@ in submarine and you should go to the coordinates showed in map
 
 <h3>Hunger Run</h3>
 
-<img src="YOUR_HUNGER_RUN_SCREENSHOT_URL" width="100%">
+<img src="hunger-run.gif" width="100%">
 
 <p><b>Endless Runner · 3D · Arcade</b></p>
 
@@ -97,11 +97,11 @@ their hunger.
 </p>
 
 <p>
-<a href="YOUR_HUNGER_RUN_DOCUMENTATION_LINK">
+<a href="https://github.com/Chris73442/Hunger-Run">
 <img src="https://img.shields.io/badge/📖%20DOCUMENTATION-555555?style=for-the-badge">
 </a>
 <br><br>
-<a href="YOUR_HUNGER_RUN_ITCH_LINK">
+<a href="https://maingame7749.itch.io/hunger-run">
 <img src="https://img.shields.io/badge/🎮%20itch.io-FA2851?style=for-the-badge">
 </a>
 </p>
@@ -112,7 +112,7 @@ their hunger.
 
 <h3>House Seeker</h3>
 
-<img src="./assets/house seeker.gif" width="100%">
+<img src="./assets/house-seeker.gif" width="100%">
 
 <p><b>3D · Game</b></p>
 
@@ -128,11 +128,11 @@ buy house.
 </p>
 
 <p>
-<a href="YOUR_HOUSE_SEEKER_DOCUMENTATION_LINK">
+<a href="https://github.com/Chris73442/House-Seeker">
 <img src="https://img.shields.io/badge/📖%20DOCUMENTATION-555555?style=for-the-badge">
 </a>
 <br><br>
-<a href="YOUR_HOUSE_SEEKER_ITCH_LINK">
+<a href="https://maingame7749.itch.io/house-seeker">
 <img src="https://img.shields.io/badge/🎮%20itch.io-FA2851?style=for-the-badge">
 </a>
 </p>

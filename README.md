@@ -15,7 +15,7 @@ I enjoy building gameplay systems, player mechanics, UI systems, and interactive
 
 <h3>RPG Simulator</h3>
 
-<img src="./assets/rpg-simulator.gif" width="100%">
+<img src="./Assets/rpg-simulator.gif" width="100%">
 
 <p><b>Boardgame · Cozy · 2D</b></p>
 
@@ -80,7 +80,7 @@ in submarine and you should go to the coordinates showed in map
 
 <h3>Hunger Run</h3>
 
-<img src="hunger-run.gif" width="100%">
+<img src="./Assets/hunger-run.gif" width="100%">
 
 <p><b>Endless Runner · 3D · Arcade</b></p>
 
@@ -112,7 +112,7 @@ their hunger.
 
 <h3>House Seeker</h3>
 
-<img src="./assets/house-seeker.gif" width="100%">
+<img src="./Assets/house-seeker.gif" width="100%">
 
 <p><b>3D · Game</b></p>
 

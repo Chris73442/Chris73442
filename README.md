@@ -30,11 +30,11 @@ the role in the game.
 </p>
 
 <p>
-<a href="YOUR_TANGO_DOCUMENTATION_LINK">
+<a href="https://github.com/Chris73442/RPG-Simulator-">
 <img src="https://img.shields.io/badge/📖%20DOCUMENTATION-555555?style=for-the-badge">
 </a>
 <br><br>
-<a href="YOUR_TANGO_ITCH_LINK">
+<a href="https://maingame7749.itch.io/rpg-simulator-project">
 <img src="https://img.shields.io/badge/🎮%20itch.io-FA2851?style=for-the-badge">
 </a>
 </p>

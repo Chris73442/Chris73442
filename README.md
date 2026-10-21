@@ -45,7 +45,7 @@ the role in the game.
 
 <h3>Hollow Reach(WIP)</h3>
 
-<img src="YOUR_KAROSHI_SCREENSHOT_URL" width="100%">
+<img src="./Assets/hollow-reach.gif" width="100%">
 
 <p><b>Psychological Horror · Narrative · 2D</b></p>
 

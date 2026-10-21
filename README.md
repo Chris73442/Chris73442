@@ -171,7 +171,8 @@ buy house.
 - Game Architecture
 - 3D Programming
 - 2D Programming
-
+- Japanese Languange
+  
 ---
 
 # 📬 Contact
